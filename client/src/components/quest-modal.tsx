@@ -16,6 +16,8 @@
              <FormField
                control={form.control}
                name="title"
+   )
+)
 @@ -434,7 +434,7 @@ export function QuestModal({ isOpen, onClose, quest, defaultGroupId }: QuestMod
  
              {/* Toggle Features Section */}
